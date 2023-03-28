@@ -1,0 +1,12 @@
+django==3.2.8
+django-cors-headers==3.10.0
+djangorestframework==3.12.4
+djangorestframework-simplejwt
+django-allauth==0.51.0
+django-rest-framework-mongoengine
+django-environ
+djongo
+dnspython
+mongoengine~=0.23.1
+pymongo==3.*
+pillow==9.2.0
